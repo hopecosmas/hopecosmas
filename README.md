@@ -3,7 +3,7 @@
 
 I’m a data enthusiast at heart, combining the precision of a data engineer with the curiosity of a data analyst. My passion lies in transforming messy, real-world data into actionable insights and scalable solutions.
 
-Proficient in **SQL, Python, PySpark, R, Tableau, Power BI, Databricks, Snowflake, and cloud platforms (Azure, GCP, AWS)** - I love crafting data pipelines, dashboards, and AI-powered tools that turn numbers into stories and insights into impact.
+Proficient in **SQL, Python, PySpark, R, Tableau, Power BI, Databricks, Snowflake, and cloud platforms (Azure, GCP, AWS)** - I love crafting data pipelines, performing data analysis, building dashboards, and AI-powered tools that turn numbers into stories and insights into impact.
 
 ## 🚀 Featured Projects
 | Project | Description | Tools |
