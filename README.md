@@ -15,7 +15,7 @@ Proficient in **SQL, Python, PySpark, R, Tableau, Power BI, Databricks, Snowflak
 ## 🧰 Tech Stack
 **Languages:** Python, PySpark, SQL, R  
 **Visualization:** Power BI, Tableau  
-**Databases:** MySQL, PostgreSQL, Snowflake  
+**Databases:** MySQL, MSSQL, PostgreSQL, Snowflake  
 **Cloud & Tools:** Databricks, Azure, AWS, Git  
 
 ## 📫 Connect 
