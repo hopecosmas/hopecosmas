@@ -1,8 +1,9 @@
 
 # 👋 Hi, I'm Hope Mwaibanje
 
-I'm a data ethusiant, a mix of both Data analyst & engineer. I'm passionate about transforming data into insights.  
-Skilled in **SQL, Python, PySpark, R, Tableau, Power BI, Databricks, Snowflake, and Cloud Platforms ( Azure , GCP, AWS)**, I build data pipelines, analytics dashboards, and AI-driven solutions that empower decision-making.
+I’m a data enthusiast at heart, combining the precision of a data engineer with the curiosity of a data analyst. My passion lies in transforming messy, real-world data into actionable insights and scalable solutions.
+
+Proficient in **SQL, Python, PySpark, R, Tableau, Power BI, Databricks, Snowflake, and cloud platforms (Azure, GCP, AWS)** - I love crafting data pipelines, dashboards, and AI-powered tools that turn numbers into stories and insights into impact.
 
 ## 🚀 Featured Projects
 | Project | Description | Tools |
@@ -17,7 +18,6 @@ Skilled in **SQL, Python, PySpark, R, Tableau, Power BI, Databricks, Snowflake, 
 **Databases:** MySQL, PostgreSQL, Snowflake  
 **Cloud & Tools:** Databricks, Azure, AWS, Git  
 
-## 📫 Connect
-🌐 [Portfolio](https://mwaibanjehope.net)  
+## 📫 Connect 
 💼 [LinkedIn](https://linkedin.com/in/hope-mwaibanje)  
 📧 mwaibanjehope@gmail.com
